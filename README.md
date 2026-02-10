@@ -1,8 +1,5 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-![Demo App]([/frontend/public/screenshot-for-readme.png](https://sujeetyadav.vercel.app/Chatt.png))
-
-
 Highlights:
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
