@@ -1,8 +1,7 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+![Demo App]([/frontend/public/screenshot-for-readme.png](https://sujeetyadav.vercel.app/Chatt.png))
 
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
 
 Highlights:
 
